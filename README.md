@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @kara-grassau
 - 👀 I’m interested in data science and Esports
-- 🌱 I’m currently learning data structures and algoithms 
+- 🌱 I’m currently learning data structures and algorithms 
 - 💞️ I’m looking to collaborate on Esports data projects!
 - 📫 How to reach me: https://www.linkedin.com/in/kara-grassau/
 
